@@ -1,0 +1,1569 @@
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 0
+---------------------- end  ----------------------------
+level match, continue testing 
+Enter san--------
+touch 474 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 1
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 2
+---------------------- end  ----------------------------
+Enter san--------
+touch 726 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 3
+---------------------- end  ----------------------------
+Enter san--------
+touch 948 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: ad90579 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+new: 371ace V.E...... ........ -3600,0--2400,1802
+level match, continue testing 
+Enter san--------
+touch 474 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 1
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 2
+---------------------- end  ----------------------------
+Enter san--------
+touch 726 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 3
+---------------------- end  ----------------------------
+Enter san--------
+touch 948 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: 371ace V.E...... ........ -3600,0--2400,1802
+new: 371ace V.E...... ......ID -3600,0--2400,1802
+level match, continue testing 
+Enter san--------
+touch 474 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 1
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 2
+---------------------- end  ----------------------------
+Enter san--------
+touch 726 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 3
+---------------------- end  ----------------------------
+Enter san--------
+touch 948 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: 371ace V.E...... ......ID -3600,0--2400,1802
+new: ad90579 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+level match, continue testing 
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 4
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 4
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 4
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 4
+---------------------- end  ----------------------------
+Enter san--------
+touch 1116 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 5
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 6
+---------------------- end  ----------------------------
+Enter san--------
+touch 180 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 7
+---------------------- end  ----------------------------
+Enter san--------
+touch 63 98
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: ad90579 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+new: ad90579 V.E...... ......ID 0,0-1200,1682 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+level match, continue testing 
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 8
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 8
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 8
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 8
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 8
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 8
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 8
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 8
+---------------------- end  ----------------------------
+Enter san--------
+touch 1144 98
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 9
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 242
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 10
+---------------------- end  ----------------------------
+Enter san--------
+touch 270 562
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 11
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 562
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 12
+---------------------- end  ----------------------------
+Enter san--------
+touch 719 678
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity not compared******************
+old: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+new: com.google.android.music/.ui.TrackContainerActivity
+level match, continue testing 
+Enter san--------
+touch 63 98
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 1
+---------------------- end  ----------------------------
+Enter san--------
+touch 1144 98
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity not compared******************
+old: com.google.android.music/.ui.TrackContainerActivity
+new: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+level match, continue testing 
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+Enter san--------
+touch 930 562
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 14
+---------------------- end  ----------------------------
+Enter san--------
+touch 1049 678
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 15
+---------------------- end  ----------------------------
+Enter san--------
+touch 270 1025
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 16
+---------------------- end  ----------------------------
+Enter san--------
+touch 389 1141
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------> back to father view
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 2
+---------------------- end  ----------------------------
+Enter san--------
+touch 553 512
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity not compared******************
+old: com.google.android.music/.ui.TrackContainerActivity
+new: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+level match, continue testing 
+Enter san--------
+touch 63 98
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 1
+---------------------- end  ----------------------------
+Enter san--------
+touch 1144 98
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity not compared******************
+old: com.google.android.music/.ui.TrackContainerActivity
+new: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+level match, continue testing 
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------> back to father view
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 2
+---------------------- end  ----------------------------
+Enter san--------
+touch 553 512
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity not compared******************
+old: com.google.android.music/.ui.TrackContainerActivity
+new: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 3
+---------------------- end  ----------------------------
+Enter san--------
+touch 1053 512
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 4
+---------------------- end  ----------------------------
+Enter san--------
+touch 1011 363
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 5
+---------------------- end  ----------------------------
+Enter san--------
+touch 1060 863
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 6
+---------------------- end  ----------------------------
+Enter san--------
+touch 1060 1031
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 7
+---------------------- end  ----------------------------
+Enter san--------
+touch 1060 1199
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 8
+---------------------- end  ----------------------------
+Enter san--------
+touch 1060 1367
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 9
+---------------------- end  ----------------------------
+Enter san--------
+touch 474 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 10
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 11
+---------------------- end  ----------------------------
+Enter san--------
+touch 726 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 12
+---------------------- end  ----------------------------
+Enter san--------
+touch 948 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 13
+---------------------- end  ----------------------------
+Enter san--------
+touch 1116 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 14
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 15
+---------------------- end  ----------------------------
+Enter san--------
+touch 180 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: bbb50d9 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/.ui.TrackContainerActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 16
+---------------------- end  ----------------------------
+--------> back to father view
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 3
+---------------------- end  ----------------------------
+Enter san--------
+touch 1053 512
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 4
+---------------------- end  ----------------------------
+Enter san--------
+touch 1011 363
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 5
+---------------------- end  ----------------------------
+Enter san--------
+touch 1060 863
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 6
+---------------------- end  ----------------------------
+Enter san--------
+touch 1060 1031
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 7
+---------------------- end  ----------------------------
+Enter san--------
+touch 1060 1199
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 8
+---------------------- end  ----------------------------
+Enter san--------
+touch 1060 1367
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 9
+---------------------- end  ----------------------------
+Enter san--------
+touch 474 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 10
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 11
+---------------------- end  ----------------------------
+Enter san--------
+touch 726 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 12
+---------------------- end  ----------------------------
+Enter san--------
+touch 948 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 13
+---------------------- end  ----------------------------
+Enter san--------
+touch 1116 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 14
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 15
+---------------------- end  ----------------------------
+Enter san--------
+touch 180 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fe7c25b V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 98a4b82 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 16
+---------------------- end  ----------------------------
+--------> back to father view
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------> back to father view
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------> back to father view
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 4
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 4
+---------------------- end  ----------------------------
+Enter san--------
+touch 1116 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: 371ace V.E...... ........ -3600,0--2400,1802
+new: 676ee56 V.E...... ......ID 0,0-1200,1682 #7f110199 app:id/play_header_list
+level match, continue testing 
+Enter san--------
+touch 474 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 1
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 2
+---------------------- end  ----------------------------
+Enter san--------
+touch 726 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 3
+---------------------- end  ----------------------------
+Enter san--------
+touch 948 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: d7d94b0 V.E...... ........ -6000,0--4800,1802
+new: d7d94b0 V.E...... ......ID -6000,0--4800,1802
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 4
+---------------------- end  ----------------------------
+Enter san--------
+touch 1116 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: d7d94b0 V.E...... ........ -6000,0--4800,1802
+new: d7d94b0 V.E...... ......ID -6000,0--4800,1802
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 5
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: d7d94b0 V.E...... ........ -6000,0--4800,1802
+new: 676ee56 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 6
+---------------------- end  ----------------------------
+Enter san--------
+touch 180 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: d7d94b0 V.E...... ........ -6000,0--4800,1802
+new: 676ee56 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 7
+---------------------- end  ----------------------------
+Enter san--------
+touch 63 98
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: d7d94b0 V.E...... ........ -6000,0--4800,1802
+new: 676ee56 V.E...... ......ID 0,0-1200,1682 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 8
+---------------------- end  ----------------------------
+Enter san--------
+touch 1144 98
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: d7d94b0 V.E...... ........ -6000,0--4800,1802
+new: 676ee56 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 9
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 242
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: d7d94b0 V.E...... ........ -6000,0--4800,1802
+new: 676ee56 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 10
+---------------------- end  ----------------------------
+Enter san--------
+touch 270 562
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: d7d94b0 V.E...... ........ -6000,0--4800,1802
+new: 676ee56 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 11
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 562
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: d7d94b0 V.E...... ........ -6000,0--4800,1802
+new: 676ee56 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 12
+---------------------- end  ----------------------------
+Enter san--------
+touch 719 678
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity not compared******************
+old: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+new: com.google.android.music/.ui.TrackContainerActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+Enter san--------
+touch 930 562
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity not compared******************
+old: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+new: com.google.android.music/.ui.TrackContainerActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 14
+---------------------- end  ----------------------------
+Enter san--------
+touch 1049 678
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity not compared******************
+old: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+new: com.google.android.music/.ui.TrackContainerActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 15
+---------------------- end  ----------------------------
+Enter san--------
+touch 270 1025
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity not compared******************
+old: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+new: com.google.android.music/.ui.TrackContainerActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 16
+---------------------- end  ----------------------------
+Enter san--------
+touch 389 1141
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity not compared******************
+old: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+new: com.google.android.music/.ui.TrackContainerActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------> back to father view
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 5
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: 371ace V.E...... ........ -3600,0--2400,1802
+new: 
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 6
+---------------------- end  ----------------------------
+Enter san--------
+touch 180 1780
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: 371ace V.E...... ........ -3600,0--2400,1802
+new: 676ee56 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 7
+---------------------- end  ----------------------------
+Enter san--------
+touch 63 98
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: 371ace V.E...... ........ -3600,0--2400,1802
+new: 676ee56 V.E...... ......ID 0,0-1200,1682 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 8
+---------------------- end  ----------------------------
+Enter san--------
+touch 1144 98
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: 371ace V.E...... ........ -3600,0--2400,1802
+new: 676ee56 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 9
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 242
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: 371ace V.E...... ........ -3600,0--2400,1802
+new: 676ee56 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 10
+---------------------- end  ----------------------------
+Enter san--------
+touch 270 562
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: 371ace V.E...... ........ -3600,0--2400,1802
+new: 676ee56 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 11
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 562
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: 371ace V.E...... ........ -3600,0--2400,1802
+new: 676ee56 V.E...... ........ 0,0-1200,1682 #7f110199 app:id/play_header_list
+level match, continue testing 
+Enter san--------
+touch 63 98
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 1
+---------------------- end  ----------------------------
+Enter san--------
+touch 1144 98
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity not compared******************
+old: com.google.android.music/.ui.TrackContainerActivity
+new: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 2
+---------------------- end  ----------------------------
+Enter san--------
+touch 553 512
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity not compared******************
+old: com.google.android.music/.ui.TrackContainerActivity
+new: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 3
+---------------------- end  ----------------------------
+Enter san--------
+touch 1053 512
+-------->Activity name: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+**** Activity not compared******************
+old: com.google.android.music/.ui.TrackContainerActivity
+new: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 4
+---------------------- end  ----------------------------
+Enter san--------
+touch 1011 363
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fed3714 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 5433163 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 5
+---------------------- end  ----------------------------
+Enter san--------
+touch 1060 863
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fed3714 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 5433163 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 6
+---------------------- end  ----------------------------
+Enter san--------
+touch 1060 1031
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fed3714 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 5433163 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 7
+---------------------- end  ----------------------------
+Enter san--------
+touch 1060 1199
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fed3714 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 5433163 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 8
+---------------------- end  ----------------------------
+Enter san--------
+touch 1060 1367
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fed3714 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 5433163 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 9
+---------------------- end  ----------------------------
+Enter san--------
+touch 474 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fed3714 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 5433163 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 10
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fed3714 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 5433163 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 11
+---------------------- end  ----------------------------
+Enter san--------
+touch 726 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fed3714 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 5433163 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 12
+---------------------- end  ----------------------------
+Enter san--------
+touch 948 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fed3714 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 5433163 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 13
+---------------------- end  ----------------------------
+Enter san--------
+touch 1116 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fed3714 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 5433163 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 14
+---------------------- end  ----------------------------
+Enter san--------
+touch 600 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fed3714 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 5433163 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 15
+---------------------- end  ----------------------------
+Enter san--------
+touch 180 1780
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity compare ***********************
+**** **** TopView not compared******************
+old: fed3714 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+new: 5433163 V.E...... ........ 0,0-1200,1724 #7f110199 app:id/play_header_list
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/.ui.TrackContainerActivity, level: 3, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:16, Already Traveled: 16
+---------------------- end  ----------------------------
+--------> back to father view
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 12
+---------------------- end  ----------------------------
+Enter san--------
+touch 719 678
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity not compared******************
+old: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+new: com.google.android.music/.ui.TrackContainerActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 13
+---------------------- end  ----------------------------
+Enter san--------
+touch 930 562
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity not compared******************
+old: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+new: com.google.android.music/.ui.TrackContainerActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 14
+---------------------- end  ----------------------------
+Enter san--------
+touch 1049 678
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity not compared******************
+old: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+new: com.google.android.music/.ui.TrackContainerActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 15
+---------------------- end  ----------------------------
+Enter san--------
+touch 270 1025
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity not compared******************
+old: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+new: com.google.android.music/.ui.TrackContainerActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 16
+---------------------- end  ----------------------------
+Enter san--------
+touch 389 1141
+-------->Activity name: com.google.android.music/.ui.TrackContainerActivity
+**** Activity not compared******************
+old: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity
+new: com.google.android.music/.ui.TrackContainerActivity
+***** --- current view existed, replace it with old view in view list
+view name com.google.android.music/.ui.TrackContainerActivity
+current level is bigger than max level, current test stop
+current level: 4, max level: 3
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 2, father: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------> back to father view
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------------------- start -----------------------------
+Current View: com.google.android.music/com.android.music.activitymanagement.TopLevelActivity, level: 1, father: ROOT, node list as bellow
+Current Nodes, Sum:17, Already Traveled: 17
+---------------------- end  ----------------------------
+--------> back to father view
+Excute Time: 382 s
